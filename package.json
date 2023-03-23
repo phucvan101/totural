@@ -1,0 +1,18 @@
+{
+  "name": "totural",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-intro.js",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "lodash": "^4.17.21",
+    "npm": "^7.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
